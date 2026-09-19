@@ -68,3 +68,15 @@ Loopable uses:
 *10. Changes to This Policy*
 
 We may update this policy.
+We will notify you by posting the new date and, for material changes, via in-app notice.
+
+*11. Contact Us*
+
+For privacy requests, data deletion, or complaints:
+Golden Controller Tech
+Email: [goldencontrollertech@gmail.com]
+Address: [No 121, matrix street, minna Niger state , Nigeria]
+Data Protection Officer: [austineirem@gmail.com]
+
+If you are in Nigeria and are not satisfied, you may contact the NDPC at https://ndpc.gov.ng
+
